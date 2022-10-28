@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/sasuke-icegif-6.gif">
+</div>
 
 <!--
 **70L/70L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
